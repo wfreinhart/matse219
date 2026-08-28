@@ -6,8 +6,8 @@ Auto-generated from the private authoring repo (matse219-instructor). Do not edi
 
 - [Lecture01](https://colab.research.google.com/github/wfreinhart/matse219/blob/main/notebooks/Lecture01.ipynb)
 - [Lecture02](https://colab.research.google.com/github/wfreinhart/matse219/blob/main/notebooks/Lecture02.ipynb)
-- [Lecture03_numpy-indexing-slicing-and-array-shape](https://colab.research.google.com/github/wfreinhart/matse219/blob/main/notebooks/Lecture03_numpy-indexing-slicing-and-array-shape.ipynb)
-- [Lecture04_descriptive-statistics-i-mean-median-variance-stan](https://colab.research.google.com/github/wfreinhart/matse219/blob/main/notebooks/Lecture04_descriptive-statistics-i-mean-median-variance-stan.ipynb)
+- [Lecture03](https://colab.research.google.com/github/wfreinhart/matse219/blob/main/notebooks/Lecture03.ipynb)
+- [Lecture04](https://colab.research.google.com/github/wfreinhart/matse219/blob/main/notebooks/Lecture04.ipynb)
 
 ## Homework
 

@@ -12,3 +12,4 @@ Auto-generated from the private authoring repo (matse219-instructor). Do not edi
 ## Homework
 
 - [Homework01](https://colab.research.google.com/github/wfreinhart/matse219/blob/main/notebooks/Homework01.ipynb)
+- [Homework02](https://colab.research.google.com/github/wfreinhart/matse219/blob/main/notebooks/Homework02.ipynb)

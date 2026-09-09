@@ -1,0 +1,122 @@
+condition,test_type,specimen_id,width_mm,thickness_mm,peak_load_N,strength_MPa,modulus_GPa,fracture_toughness_Jm2,peak_engineering_strain_pct,fracture_description,notes,source_file
+Chopped Fiber 50fvf,Tensile,1-1-5-A-90,24.5,1.2296666666666667,2193.0,73.58,19.902,,,,,ICME-mech-ChoppedProc1-Tensile-AmbientTemp-QSrate-2016-12-15.xlsx
+Chopped Fiber 50fvf,Tensile,1-1-5-B-90,24.276666666666667,1.3886666666666667,1181.0,34.31,21.52,,,,,ICME-mech-ChoppedProc1-Tensile-AmbientTemp-QSrate-2016-12-15.xlsx
+Chopped Fiber 50fvf,Tensile,1-1-5-C-90,24.28,1.1713333333333333,2434.0,84.91,30.18,,,,,ICME-mech-ChoppedProc1-Tensile-AmbientTemp-QSrate-2016-12-15.xlsx
+Chopped Fiber 50fvf,Tensile,1-1-5-D-90,24.363333333333333,1.1666666666666665,2529.0,88.05,27.66,,,,,ICME-mech-ChoppedProc1-Tensile-AmbientTemp-QSrate-2016-12-15.xlsx
+Chopped Fiber 50fvf,Tensile,1-1-5-E-90,24.393333333333334,1.306,3323.0,100.57,28.49,,,,,ICME-mech-ChoppedProc1-Tensile-AmbientTemp-QSrate-2016-12-15.xlsx
+Chopped Fiber 50fvf,Tensile,1-2-8-A-90,23.886666666666667,1.2253333333333334,3219.0,109.57,24.0152,,,,,ICME-mech-ChoppedProc2-Tensile-AmbientTemp-QSrate-2017-01-09.xlsx
+Chopped Fiber 50fvf,Tensile,1-2-8-B-90,23.73,1.4136666666666666,1702.0,,16.425,,,,UTS invalid,ICME-mech-ChoppedProc2-Tensile-AmbientTemp-QSrate-2017-01-09.xlsx
+Chopped Fiber 50fvf,Tensile,1-2-8-C-90,23.72666666666667,1.1946666666666668,,,,,,,"Sample defects, no stress strain data",ICME-mech-ChoppedProc2-Tensile-AmbientTemp-QSrate-2017-01-09.xlsx
+Chopped Fiber 50fvf,Tensile,1-2-8-D-90,23.709999999999997,1.1836666666666666,1040.0,,25.6267,,,,UTS invalid,ICME-mech-ChoppedProc2-Tensile-AmbientTemp-QSrate-2017-01-09.xlsx
+Chopped Fiber 50fvf,Tensile,1-2-8-E-90,23.836666666666662,1.3103333333333333,2917.0,92.57,29.7772,,,,,ICME-mech-ChoppedProc2-Tensile-AmbientTemp-QSrate-2017-01-09.xlsx
+Chopped Fiber 50fvf,Tensile,1-2-8-1-90,23.69333333333333,1.4116666666666664,883.0,26.28,30.4107,,,,,ICME-mech-ChoppedProc2-Tensile-AmbientTemp-QSrate-2017-01-09.xlsx
+Chopped Fiber 50fvf,Tensile,1-2-8-2-90,23.676666666666666,1.3559999999999999,3871.0,119.61,23.8932,,,,,ICME-mech-ChoppedProc2-Tensile-AmbientTemp-QSrate-2017-01-09.xlsx
+Chopped Fiber 50fvf,Tensile,1-2-8-3-90,23.963333333333335,1.2723333333333333,3708.0,120.08,22.2109,,,,,ICME-mech-ChoppedProc2-Tensile-AmbientTemp-QSrate-2017-01-09.xlsx
+Chopped Fiber 50fvf,Tensile,1-2-8-4-90,23.926666666666666,1.2060000000000002,3136.0,107.77,29.2071,,,,,ICME-mech-ChoppedProc2-Tensile-AmbientTemp-QSrate-2017-01-09.xlsx
+Chopped Fiber 50fvf,Tensile,1-2-8-5-90,23.84,1.2603333333333333,3685.0,121.78,21.6001,,,,,ICME-mech-ChoppedProc2-Tensile-AmbientTemp-QSrate-2017-01-09.xlsx
+Chopped Fiber 50fvf,Tensile,1-2-8-6-90,23.830000000000002,1.168,1124.0,40.51,25.6491,,,,,ICME-mech-ChoppedProc2-Tensile-AmbientTemp-QSrate-2017-01-09.xlsx
+Chopped Fiber 50fvf,Tensile,1-2-3-A-90,24.27,1.2046666666666666,2486.0,83.86,29.9701,,,,,ICME-mech-ChoppedProc2-Tensile-AmbientTemp-QSrate-2017-01-09.xlsx
+Chopped Fiber 50fvf,Tensile,1-2-3-B-90,24.12,1.3263333333333334,1372.0,26.36,25.2567,,,,,ICME-mech-ChoppedProc2-Tensile-AmbientTemp-QSrate-2017-01-09.xlsx
+Chopped Fiber 50fvf,Tensile,1-2-3-C-90,24.25,1.2186666666666666,671.0,22.537,24.6579,,,,,ICME-mech-ChoppedProc2-Tensile-AmbientTemp-QSrate-2017-01-09.xlsx
+Chopped Fiber 50fvf,Tensile,1-2-3-D-90,24.366666666666664,1.2116666666666667,2135.0,72.19,26.0975,,,,,ICME-mech-ChoppedProc2-Tensile-AmbientTemp-QSrate-2017-01-09.xlsx
+Chopped Fiber 50fvf,Tensile,1-2-3-E-90,24.30333333333333,1.257,1485.0,48.01,25.0843,,,,,ICME-mech-ChoppedProc2-Tensile-AmbientTemp-QSrate-2017-01-09.xlsx
+Chopped Fiber 50fvf,Tensile,1-3-5-1-90,25.320000000000004,1.3806666666666667,,,,,,,"grip loose, no stress strain data",ICME-mech-ChoppedProc3-Tensile-AmbientTemp-QSrate-2016-12-15.xlsx
+Chopped Fiber 50fvf,Tensile,1-3-5-2-90,25.41,1.298,3.274,99.1,31.09,,,,,ICME-mech-ChoppedProc3-Tensile-AmbientTemp-QSrate-2016-12-15.xlsx
+Chopped Fiber 50fvf,Tensile,1-3-5-3-90,25.46666666666667,1.2773333333333332,3.947,121.66,28.19,,,,,ICME-mech-ChoppedProc3-Tensile-AmbientTemp-QSrate-2016-12-15.xlsx
+Chopped Fiber 50fvf,Tensile,1-3-5-4-90,25.46666666666667,1.2246666666666666,3.351,107.54,22.21,,,,,ICME-mech-ChoppedProc3-Tensile-AmbientTemp-QSrate-2016-12-15.xlsx
+Chopped Fiber 50fvf,Tensile,1-3-5-5-90,25.45,1.2163333333333333,2.424,79.38,32.8,,,,,ICME-mech-ChoppedProc3-Tensile-AmbientTemp-QSrate-2016-12-15.xlsx
+Chopped Fiber 50fvf,Tensile,1-3-5-6-90,25.42,1.2116666666666667,3.027,,,,,,"interrupted, no stress strain data",ICME-mech-ChoppedProc3-Tensile-AmbientTemp-QSrate-2016-12-15.xlsx
+Chopped Fiber 50fvf,Tensile,1-3-3-1-90,25.19666666666667,1.3633333333333333,3.503,113.85,23.94,,,,,ICME-mech-ChoppedProc3-Tensile-AmbientTemp-QSrate-2016-12-15.xlsx
+Chopped Fiber 50fvf,Tensile,1-3-3-2-90,25.26,1.3263333333333334,2.266,68.12,23.37,,,,,ICME-mech-ChoppedProc3-Tensile-AmbientTemp-QSrate-2016-12-15.xlsx
+Chopped Fiber 50fvf,Tensile,1-3-3-3-90,25.233333333333334,1.248,3.959,126.62,30.46,,,,,ICME-mech-ChoppedProc3-Tensile-AmbientTemp-QSrate-2016-12-15.xlsx
+Chopped Fiber 50fvf,Tensile,1-3-3-4-90,25.286666666666665,1.184,1.729,58.66,29.71,,,,,ICME-mech-ChoppedProc3-Tensile-AmbientTemp-QSrate-2016-12-15.xlsx
+Chopped Fiber 50fvf,Tensile,1-3-3-5-90,25.28,1.1569999999999998,2.272,79.39,24.8,,,,,ICME-mech-ChoppedProc3-Tensile-AmbientTemp-QSrate-2016-12-15.xlsx
+Chopped Fiber 50fvf,Tensile,1-3-3-6-90,25.246666666666666,1.1383333333333334,1.403,,23.22,,,,"interrupt, UTS invalid but with stress strain data",ICME-mech-ChoppedProc3-Tensile-AmbientTemp-QSrate-2016-12-15.xlsx
+Chopped Fiber 50fvf,Tensile,1-3-7-1-90,24.713333333333335,1.375,2.13,63.11,22.73,,,,,ICME-mech-ChoppedProc3-Tensile-AmbientTemp-QSrate-2016-12-15.xlsx
+Chopped Fiber 50fvf,Tensile,1-3-7-2-90,24.546666666666667,1.362,3.896,,,,,,"grip loose, no stress strain data",ICME-mech-ChoppedProc3-Tensile-AmbientTemp-QSrate-2016-12-15.xlsx
+Chopped Fiber 50fvf,Tensile,1-3-7-3-90,24.743333333333336,1.341,3.72,118.22,24.52,,,,,ICME-mech-ChoppedProc3-Tensile-AmbientTemp-QSrate-2016-12-15.xlsx
+Chopped Fiber 50fvf,Tensile,1-3-7-4-90,24.653333333333336,1.2663333333333335,2.629,84.45,30.0,,,,,ICME-mech-ChoppedProc3-Tensile-AmbientTemp-QSrate-2016-12-15.xlsx
+Chopped Fiber 50fvf,Tensile,1-3-7-5-90,24.766666666666666,1.2566666666666668,2.47,79.4,31.81,,,,,ICME-mech-ChoppedProc3-Tensile-AmbientTemp-QSrate-2016-12-15.xlsx
+Chopped Fiber 50fvf,Tensile,1-3-7-6-90,24.676666666666666,1.2893333333333334,2.306,,26.07,,,,"interrupted, UTS invalid but with stress strain data",ICME-mech-ChoppedProc3-Tensile-AmbientTemp-QSrate-2016-12-15.xlsx
+Chopped Fiber 50fvf,Tensile,1-6-1-A-90,24.580000000000002,1.4016666666666666,3356.0,97.81,18.27,,,,,ICME-mech-ChoppedProc6-Tensile-AmbientTemp-QSrate-2016-12-15.xlsx
+Chopped Fiber 50fvf,Tensile,1-6-1-B-90,24.713333333333335,1.5363333333333333,1343.0,34.91,19.84,,,,,ICME-mech-ChoppedProc6-Tensile-AmbientTemp-QSrate-2016-12-15.xlsx
+Chopped Fiber 50fvf,Tensile,1-6-1-C-90,24.810000000000002,1.4456666666666667,2431.0,68.06,27.03,,,,,ICME-mech-ChoppedProc6-Tensile-AmbientTemp-QSrate-2016-12-15.xlsx
+Chopped Fiber 50fvf,Tensile,1-6-1-D-90,24.746666666666666,1.349,3495.0,105.94,28.21,,,,,ICME-mech-ChoppedProc6-Tensile-AmbientTemp-QSrate-2016-12-15.xlsx
+Chopped Fiber 50fvf,Tensile,1-6-1-E-90,24.679999999999996,1.466,2616.0,72.05,24.53,,,,,ICME-mech-ChoppedProc6-Tensile-AmbientTemp-QSrate-2016-12-15.xlsx
+Chopped Fiber 50fvf,Compression,0-1-17-3-2,12.626666666666667,2.5966666666666667,8170.909188,249.21,40.944,,,,,ICME-mech-ChoppedProc7-Compression-AmbientTemp-QSrate-2018-04-05.xlsx
+Chopped Fiber 50fvf,Compression,0-1-17-3-3,12.673333333333332,2.5933333333333333,9970.283690666665,303.36,44.186499999999995,,,,,ICME-mech-ChoppedProc7-Compression-AmbientTemp-QSrate-2018-04-05.xlsx
+Chopped Fiber 50fvf,Compression,0-1-17-3-4,12.613333333333335,2.6166666666666667,8272.015302222224,250.63,42.468999999999994,,,,,ICME-mech-ChoppedProc7-Compression-AmbientTemp-QSrate-2018-04-05.xlsx
+Chopped Fiber 50fvf,Compression,0-1-17-3-5,12.676666666666668,2.5833333333333335,8318.006111111112,254.0,39.14,,,,,ICME-mech-ChoppedProc7-Compression-AmbientTemp-QSrate-2018-04-05.xlsx
+Chopped Fiber 50fvf,Compression,0-1-17-3-6,12.643333333333336,2.5933333333333333,8915.159917777779,271.9,39.451,,,,,ICME-mech-ChoppedProc7-Compression-AmbientTemp-QSrate-2018-04-05.xlsx
+Chopped Fiber 50fvf,Compression,0-1-17-3-8,12.576666666666668,2.603333333333333,6632.0687253333335,202.56,31.0125,,,,,ICME-mech-ChoppedProc7-Compression-AmbientTemp-QSrate-2018-04-05.xlsx
+Chopped Fiber 50fvf,Compression,90-1-17-3-2,12.666666666666666,2.56,5632.836266666667,173.71,33.286500000000004,,,,,ICME-mech-ChoppedProc7-Compression-AmbientTemp-QSrate-2018-04-05.xlsx
+Chopped Fiber 50fvf,Compression,90-1-17-3-3,12.693333333333333,2.6333333333333333,6277.361066666666,187.8,25.797,,,,,ICME-mech-ChoppedProc7-Compression-AmbientTemp-QSrate-2018-04-05.xlsx
+Chopped Fiber 50fvf,Compression,90-1-17-3-5,12.653333333333334,2.4733333333333336,6644.121928888891,212.3,31.502499999999998,,,,,ICME-mech-ChoppedProc7-Compression-AmbientTemp-QSrate-2018-04-05.xlsx
+Chopped Fiber 50fvf,Compression,90-1-17-3-6,12.623333333333333,2.46,4968.544,160.0,25.887,,,,,ICME-mech-ChoppedProc7-Compression-AmbientTemp-QSrate-2018-04-05.xlsx
+Chopped Fiber 50fvf,Compression,90-1-17-3-7,12.653333333333334,2.5233333333333334,5786.416150666667,181.23,24.023,,,,,ICME-mech-ChoppedProc7-Compression-AmbientTemp-QSrate-2018-04-05.xlsx
+Chopped Fiber 50fvf,Compression,90-1-17-3-8,12.643333333333333,2.5033333333333334,4747.571666666667,150.0,18.0735,,,,,ICME-mech-ChoppedProc7-Compression-AmbientTemp-QSrate-2018-04-05.xlsx
+Chopped Fiber 50fvf,Compression,90-1-17-3-9,12.653333333333334,2.4666666666666663,4993.848888888889,160.0,25.889499999999998,,,,,ICME-mech-ChoppedProc7-Compression-AmbientTemp-QSrate-2018-04-05.xlsx
+Chopped Fiber 50fvf,Compression,90-1-17-3-10,12.633333333333335,2.5566666666666666,4756.706456666668,147.27,16.0595,,,,,ICME-mech-ChoppedProc7-Compression-AmbientTemp-QSrate-2018-04-05.xlsx
+Chopped Fiber 50fvf,Compression,90-1-17-3-11,12.656666666666666,2.59,5572.402525666667,169.99,27.5055,,,,,ICME-mech-ChoppedProc7-Compression-AmbientTemp-QSrate-2018-04-05.xlsx
+Chopped Fiber 50fvf,Shear,90-1-6-8-1,31.63,1.43,4275.676977,94.53,9.834,,,,,ICME-mech-ChoppedProc8-Shear-AmbientTemp-QSrate-2018-05-10.xlsx
+Chopped Fiber 50fvf,Shear,90-1-6-8-3,31.43,1.45,5538.547455,121.53,9.6145,,,,,ICME-mech-ChoppedProc8-Shear-AmbientTemp-QSrate-2018-05-10.xlsx
+Chopped Fiber 50fvf,Shear,90-1-6-8-4,31.64,1.52,4228.799904,87.93,9.716000000000001,,,,,ICME-mech-ChoppedProc8-Shear-AmbientTemp-QSrate-2018-05-10.xlsx
+Chopped Fiber 50fvf,Shear,90-1-6-8-5,31.43,1.47,4904.352915,106.15,10.723500000000001,,,,,ICME-mech-ChoppedProc8-Shear-AmbientTemp-QSrate-2018-05-10.xlsx
+Chopped Fiber 50fvf,Shear,90-1-6-8-8,31.53,1.48,3577.759548,76.67,10.2105,,,,,ICME-mech-ChoppedProc8-Shear-AmbientTemp-QSrate-2018-05-10.xlsx
+Chopped Fiber 50fvf,Shear,90-1-6-8-9,31.75,1.2,4115.181,108.01,11.4885,,,,,ICME-mech-ChoppedProc8-Shear-AmbientTemp-QSrate-2018-05-10.xlsx
+Chopped Fiber 50fvf,Shear,0-1-6-8-2,31.48,1.31,4837.723628000001,117.31,10.288499999999999,,,,,ICME-mech-ChoppedProc8-Shear-AmbientTemp-QSrate-2018-05-10.xlsx
+Chopped Fiber 50fvf,Shear,0-1-6-8-3,31.62,1.19,4515.335999999999,120.0,9.994299999999999,,,,,ICME-mech-ChoppedProc8-Shear-AmbientTemp-QSrate-2018-05-10.xlsx
+Chopped Fiber 50fvf,Shear,0-1-6-8-5,31.73,1.27,5656.503927000001,140.37,11.891,,,,,ICME-mech-ChoppedProc8-Shear-AmbientTemp-QSrate-2018-05-10.xlsx
+Chopped Fiber 50fvf,Shear,0-1-6-8-7,31.44,1.31,4738.083456,115.04,9.9885,,,,,ICME-mech-ChoppedProc8-Shear-AmbientTemp-QSrate-2018-05-10.xlsx
+Chopped Fiber 50fvf,Shear,0-1-6-8-8,31.51,1.26,4617.015354000001,116.29,8.520199999999999,,,,,ICME-mech-ChoppedProc8-Shear-AmbientTemp-QSrate-2018-05-10.xlsx
+NCF 50fvf,Off-Axis 45deg Tensile,Tn-45°-2.3-1,25.88,2.53,,222.2,5.244,,,OGM,,ICME-mech-NCF50-OffAxis45degTensile-AmbientTemp-QSrate-2018-11-26.xls
+NCF 50fvf,Off-Axis 45deg Tensile,Tn-45°-2.3-2,25.83,2.53,,226.2,5.176,,,OGB,,ICME-mech-NCF50-OffAxis45degTensile-AmbientTemp-QSrate-2018-11-26.xls
+NCF 50fvf,Off-Axis 45deg Tensile,Tn-45°-2.3-3,26.55,2.53,,217.0,4.996,,,OGM,,ICME-mech-NCF50-OffAxis45degTensile-AmbientTemp-QSrate-2018-11-26.xls
+NCF 50fvf,Off-Axis 45deg Tensile,Tn-45°-2.3-4,25.13,2.53,,227.2,5.257,,,OGM,,ICME-mech-NCF50-OffAxis45degTensile-AmbientTemp-QSrate-2018-11-26.xls
+NCF 50fvf,Tensile,Tn-90°-2.3-1,19.56,2.5,,1109.0,75.01,,1.42,LGM,,ICME-mech-NCF50-Tensile-AmbientTemp-QSrate-2018-11-26.xls
+NCF 50fvf,Tensile,Tn-90°-2.3-1,20.25,2.49,,1149.0,75.76,,1.45,LGM,,ICME-mech-NCF50-Tensile-AmbientTemp-QSrate-2018-11-26.xls
+NCF 50fvf,Tensile,Tn-90°-2.3-1,19.3,2.49,,1109.0,70.76,,1.49,LGM,,ICME-mech-NCF50-Tensile-AmbientTemp-QSrate-2018-11-26.xls
+NCF 50fvf,Tensile,Tn-90°-2.3-1,19.83,2.49,,1200.0,75.0,,1.56,LGM,,ICME-mech-NCF50-Tensile-AmbientTemp-QSrate-2018-11-26.xls
+NCF 50fvf,Shear 1-3,TorN-0°-5-1,27.0,5.03,,-,4.766,,-,,,ICME-mech-NCF50-TorsionShear13-AmbientTemp-QSrate-2018-11-26.xls
+NCF 50fvf,Shear 1-3,TorN-0°-5-2,26.37,5.03,,-,2.996,,-,,,ICME-mech-NCF50-TorsionShear13-AmbientTemp-QSrate-2018-11-26.xls
+NCF 50fvf,Shear 1-3,TorN-0°-5-3,26.18,5.05,,-,3.39,,-,,,ICME-mech-NCF50-TorsionShear13-AmbientTemp-QSrate-2018-11-26.xls
+NCF 50fvf,Shear 2-3,TorN-90°-5-1,26.59,4.94,,-,3.496,,-,,,ICME-mech-NCF50-TorsionShear23-AmbientTemp-QSrate-2018-11-26.xls
+NCF 50fvf,Shear 2-3,TorN-90°-5-2,25.52,4.99,,-,3.613,,-,,,ICME-mech-NCF50-TorsionShear23-AmbientTemp-QSrate-2018-11-26.xls
+NCF 50fvf,Shear 2-3,TorN-90°-5-3,25.43,5.02,,-,4.067,,-,,,ICME-mech-NCF50-TorsionShear23-AmbientTemp-QSrate-2018-11-26.xls
+Twill Weave 660gsm 50fvf,Fracture Toughness Mode I,wtDCBw-2.3-1,,2.85,,,,361.8,,,Width-tapered coupon (non-ASTM),ICME-mech-TwillWeave660gsm50-FractureToughnessModeI-AmbientTemp-QSrate-2018-11-26.xls
+Twill Weave 660gsm 50fvf,Fracture Toughness Mode I,wtDCBw-2.3-2,,2.8,,,,337.6,,,Width-tapered coupon (non-ASTM),ICME-mech-TwillWeave660gsm50-FractureToughnessModeI-AmbientTemp-QSrate-2018-11-26.xls
+Twill Weave 660gsm 50fvf,Fracture Toughness Mode I,wtDCBw-2.3-3,,2.9,,,,331.3,,,Width-tapered coupon (non-ASTM),ICME-mech-TwillWeave660gsm50-FractureToughnessModeI-AmbientTemp-QSrate-2018-11-26.xls
+Twill Weave 660gsm 50fvf,Fracture Toughness Mode I,wtDCBw-2.3-4,,2.89,,,,406.8,,,"Width-tapered coupon (non-ASTM), Specimen pre-crack left undisturbed, as-cast, to demonstrate resultant load-peak",ICME-mech-TwillWeave660gsm50-FractureToughnessModeI-AmbientTemp-QSrate-2018-11-26.xls
+Twill Weave 660gsm 50fvf,Fracture Toughness Mode II,sENFw-2.3-1,16.66,2.76,,,,504.2,,,,ICME-mech-TwillWeave660gsm50-FractureToughnessModeII-AmbientTemp-QSrate-2018-11-26.xls
+Twill Weave 660gsm 50fvf,Fracture Toughness Mode II,sENFw-2.3-2,17.89,2.79,,,,457.6,,,,ICME-mech-TwillWeave660gsm50-FractureToughnessModeII-AmbientTemp-QSrate-2018-11-26.xls
+Twill Weave 660gsm 50fvf,Fracture Toughness Mode II,sENFw-2.3-3,17.34,2.81,,,,415.0,,,,ICME-mech-TwillWeave660gsm50-FractureToughnessModeII-AmbientTemp-QSrate-2018-11-26.xls
+Twill Weave 660gsm 50fvf,Off-Axis 45deg Tensile,Tw-45°-2.3-1,23.27,2.51,,144.8,5.171,,,OGB,Includes unloading response,ICME-mech-TwillWeave660gsm50-OffAxis45Tensile-AmbientTemp-QSrate-2018-11-26.xls
+Twill Weave 660gsm 50fvf,Off-Axis 45deg Tensile,Tw-45°-2.3-2,21.63,2.52,,128.9,5.392,,,OGT,Includes unloading response,ICME-mech-TwillWeave660gsm50-OffAxis45Tensile-AmbientTemp-QSrate-2018-11-26.xls
+Twill Weave 660gsm 50fvf,Off-Axis 45deg Tensile,Tw-45°-2.3-3,22.24,2.52,,126.2,4.937,,,OGM,Includes unloading response,ICME-mech-TwillWeave660gsm50-OffAxis45Tensile-AmbientTemp-QSrate-2018-11-26.xls
+Twill Weave 660gsm 50fvf,Off-Axis 45deg Tensile,Tw-45°-2.3-4,21.6,2.52,,126.9,5.357,,,OGM,Includes unloading response,ICME-mech-TwillWeave660gsm50-OffAxis45Tensile-AmbientTemp-QSrate-2018-11-26.xls
+Twill Weave 660gsm 50fvf,Off-Axis 45deg Tensile,Tw-45°-2.3-5,22.62,2.51,,126.9,5.047,,,OGB,Includes unloading response,ICME-mech-TwillWeave660gsm50-OffAxis45Tensile-AmbientTemp-QSrate-2018-11-26.xls
+Twill Weave 660gsm 50fvf,Shear 1-3,TorW-0°-5-1,26.42,4.55,,-,3.489,,-,,,ICME-mech-TwillWeave660gsm50-TorsionalShear13-AmbientTemp-QSrate-2018-11-26.xls
+Twill Weave 660gsm 50fvf,Shear 1-3,TorW-0°-5-2,25.26,4.6,,-,4.818,,-,,,ICME-mech-TwillWeave660gsm50-TorsionalShear13-AmbientTemp-QSrate-2018-11-26.xls
+Twill Weave 660gsm 50fvf,Shear 1-3,TorW-0°-5-3,25.07,4.61,,-,5.001,,-,,,ICME-mech-TwillWeave660gsm50-TorsionalShear13-AmbientTemp-QSrate-2018-11-26.xls
+Twill Weave 660gsm 50fvf,Shear 2-3,TorW-90°-5-1,25.87,4.67,,-,3.848,,-,,,ICME-mech-TwillWeave660gsm50-TorsionalShear23-AmbientTemp-QSrate-2018-11-26.xls
+Twill Weave 660gsm 50fvf,Shear 2-3,TorW-90°-5-2,25.07,4.62,,-,4.245,,-,,,ICME-mech-TwillWeave660gsm50-TorsionalShear23-AmbientTemp-QSrate-2018-11-26.xls
+Twill Weave 660gsm 50fvf,Compression,Cw-0°-2.3-1,22.89,2.58,,402.7,73.26,,,DGM,Single strain gauge used,ICME-mech-TwillWeave660gsm50-WarpCompression-AmbientTemp-QSrate-2018-11-26.xls
+Twill Weave 660gsm 50fvf,Compression,Cw-0°-2.3-2,23.74,2.55,,394.4,-,,,DGM,Test conducted without strain measurement - for strength only,ICME-mech-TwillWeave660gsm50-WarpCompression-AmbientTemp-QSrate-2018-11-26.xls
+Twill Weave 660gsm 50fvf,Compression,Cw-0°-2.3-3,23.47,2.59,,379.9,69.71,,,DGM,,ICME-mech-TwillWeave660gsm50-WarpCompression-AmbientTemp-QSrate-2018-11-26.xls
+Twill Weave 660gsm 50fvf,Compression,Cw-0°-2.3-4,23.38,2.57,,413.0,-,,,DGM,Test conducted without strain measurement - for strength only,ICME-mech-TwillWeave660gsm50-WarpCompression-AmbientTemp-QSrate-2018-11-26.xls
+Twill Weave 660gsm 50fvf,Compression,Cw-0°-2.3-5,22.35,2.56,,380.6,-,,,DGM,Test conducted without strain measurement - for strength only,ICME-mech-TwillWeave660gsm50-WarpCompression-AmbientTemp-QSrate-2018-11-26.xls
+Twill Weave 660gsm 50fvf,Compression,Cw-0°-2.3-6,22.96,2.59,,401.3,64.42,,,DGM,Single strain gauge used,ICME-mech-TwillWeave660gsm50-WarpCompression-AmbientTemp-QSrate-2018-11-26.xls
+Twill Weave 660gsm 50fvf,Compression,Cw-0°-5-1,21.64,4.67,,466.1,64.38,,,DGM,,ICME-mech-TwillWeave660gsm50-WarpCompression-AmbientTemp-QSrate-2018-11-26.xls
+Twill Weave 660gsm 50fvf,Compression,Cw-0°-5-2,21.51,4.67,,430.9,59.08,,,DGM,,ICME-mech-TwillWeave660gsm50-WarpCompression-AmbientTemp-QSrate-2018-11-26.xls
+Twill Weave 660gsm 50fvf,Compression,Cw-0°-5-3,22.79,4.68,,437.1,65.5,,,DGM,,ICME-mech-TwillWeave660gsm50-WarpCompression-AmbientTemp-QSrate-2018-11-26.xls
+Twill Weave 660gsm 50fvf,Compression,Cw-0°-5-4,22.5,4.67,,430.9,62.48,,,DGM,,ICME-mech-TwillWeave660gsm50-WarpCompression-AmbientTemp-QSrate-2018-11-26.xls
+Twill Weave 660gsm 50fvf,Compression,Cw-0°-10-1,23.72,9.3,,355.8,62.19,,,DGM,Double-thickness bonded specimen (2 pcs of 5mm stock),ICME-mech-TwillWeave660gsm50-WarpCompression-AmbientTemp-QSrate-2018-11-26.xls
+Twill Weave 660gsm 50fvf,Compression,Cw-0°-10-2,22.35,9.32,,433.0,60.78,,,DGM,Double-thickness bonded specimen (2 pcs of 5mm stock),ICME-mech-TwillWeave660gsm50-WarpCompression-AmbientTemp-QSrate-2018-11-26.xls
+Twill Weave 660gsm 50fvf,Tensile,Tw-0°-2.3-1,21.47,2.47,,712.9,69.42,,,XGM,,ICME-mech-TwillWeave660gsm50-WarpTensile-AmbientTemp-QSrate-2018-11-26.xls
+Twill Weave 660gsm 50fvf,Tensile,Tw-0°-2.3-2,22.48,2.49,,755.6,65.12,,,XGM,,ICME-mech-TwillWeave660gsm50-WarpTensile-AmbientTemp-QSrate-2018-11-26.xls
+Twill Weave 660gsm 50fvf,Tensile,Tw-0°-2.3-3,22.99,2.47,,680.3,67.78,,,XGM,,ICME-mech-TwillWeave660gsm50-WarpTensile-AmbientTemp-QSrate-2018-11-26.xls
+Twill Weave 660gsm 50fvf,Tensile,Tw-0°-2.3-4,22.33,2.46,,732.2,65.95,,,XGM,,ICME-mech-TwillWeave660gsm50-WarpTensile-AmbientTemp-QSrate-2018-11-26.xls
+Twill Weave 660gsm 50fvf,Tensile,Tw-0°-2.3-5,20.72,2.52,,742.4,66.7,,,XGM,,ICME-mech-TwillWeave660gsm50-WarpTensile-AmbientTemp-QSrate-2018-11-26.xls
+Twill Weave 660gsm 50fvf,Tensile,Tw-0°-2.3-6,23.53,2.48,,806.7,69.29,,,XGM,,ICME-mech-TwillWeave660gsm50-WarpTensile-AmbientTemp-QSrate-2018-11-26.xls
+Twill Weave 660gsm 50fvf,Tensile,Tw-0°-2.3-7,22.97,2.46,,735.7,66.76,,,XGM,,ICME-mech-TwillWeave660gsm50-WarpTensile-AmbientTemp-QSrate-2018-11-26.xls
+Twill Weave 660gsm 50fvf,Tensile,Tw-0°-2.3-8,22.94,2.46,,868.1,70.47,,,XGM,Extensometer slippage occurs midway through test,ICME-mech-TwillWeave660gsm50-WarpTensile-AmbientTemp-QSrate-2018-11-26.xls

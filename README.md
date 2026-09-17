@@ -14,6 +14,7 @@ Auto-generated from the private authoring repo (matse219-instructor). Do not edi
 - [Lecture08](https://colab.research.google.com/github/wfreinhart/matse219/blob/main/notebooks/Lecture08.ipynb)
 - [Lecture09](https://colab.research.google.com/github/wfreinhart/matse219/blob/main/notebooks/Lecture09.ipynb)
 - [Lecture10](https://colab.research.google.com/github/wfreinhart/matse219/blob/main/notebooks/Lecture10.ipynb)
+- [Lecture11](https://colab.research.google.com/github/wfreinhart/matse219/blob/main/notebooks/Lecture11.ipynb)
 
 ## Homework
 

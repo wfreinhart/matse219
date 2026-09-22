@@ -23,7 +23,10 @@ Auto-generated from the private authoring repo (matse219-instructor). Do not edi
 ## Homework
 
 - [Homework01](https://colab.research.google.com/github/wfreinhart/matse219/blob/staging/notebooks/Homework01.ipynb)
+- [Homework01Solution](https://colab.research.google.com/github/wfreinhart/matse219/blob/staging/notebooks/Homework01Solution.ipynb)
 - [Homework02](https://colab.research.google.com/github/wfreinhart/matse219/blob/staging/notebooks/Homework02.ipynb)
+- [Homework02Solution](https://colab.research.google.com/github/wfreinhart/matse219/blob/staging/notebooks/Homework02Solution.ipynb)
 - [Homework03](https://colab.research.google.com/github/wfreinhart/matse219/blob/staging/notebooks/Homework03.ipynb)
+- [Homework03Solution](https://colab.research.google.com/github/wfreinhart/matse219/blob/staging/notebooks/Homework03Solution.ipynb)
 - [Homework04](https://colab.research.google.com/github/wfreinhart/matse219/blob/staging/notebooks/Homework04.ipynb)
 - [Homework05](https://colab.research.google.com/github/wfreinhart/matse219/blob/staging/notebooks/Homework05.ipynb)

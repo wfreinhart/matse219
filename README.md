@@ -34,3 +34,4 @@ Auto-generated from the private authoring repo (matse219-instructor). Do not edi
 - [Homework05](https://colab.research.google.com/github/wfreinhart/matse219/blob/staging/notebooks/Homework05.ipynb)
 - [Homework05Hints](https://colab.research.google.com/github/wfreinhart/matse219/blob/staging/notebooks/Homework05Hints.ipynb)
 - [Homework06](https://colab.research.google.com/github/wfreinhart/matse219/blob/staging/notebooks/Homework06.ipynb)
+- [Homework07](https://colab.research.google.com/github/wfreinhart/matse219/blob/staging/notebooks/Homework07.ipynb)

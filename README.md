@@ -27,6 +27,7 @@ Auto-generated from the private authoring repo (matse219-instructor). Do not edi
 - [Lecture21](https://colab.research.google.com/github/wfreinhart/matse219/blob/staging/notebooks/Lecture21.ipynb)
 - [Lecture22](https://colab.research.google.com/github/wfreinhart/matse219/blob/staging/notebooks/Lecture22.ipynb)
 - [Lecture23](https://colab.research.google.com/github/wfreinhart/matse219/blob/staging/notebooks/Lecture23.ipynb)
+- [Lecture23-review](https://colab.research.google.com/github/wfreinhart/matse219/blob/staging/notebooks/Lecture23-review.ipynb)
 - [Lecture24](https://colab.research.google.com/github/wfreinhart/matse219/blob/staging/notebooks/Lecture24.ipynb)
 - [Lecture25](https://colab.research.google.com/github/wfreinhart/matse219/blob/staging/notebooks/Lecture25.ipynb)
 - [Lecture26](https://colab.research.google.com/github/wfreinhart/matse219/blob/staging/notebooks/Lecture26.ipynb)

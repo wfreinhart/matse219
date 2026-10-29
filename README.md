@@ -31,6 +31,7 @@ Auto-generated from the private authoring repo (matse219-instructor). Do not edi
 - [Lecture25](https://colab.research.google.com/github/wfreinhart/matse219/blob/main/notebooks/Lecture25.ipynb)
 - [Lecture26](https://colab.research.google.com/github/wfreinhart/matse219/blob/main/notebooks/Lecture26.ipynb)
 - [Midterm1Review](https://colab.research.google.com/github/wfreinhart/matse219/blob/main/notebooks/Midterm1Review.ipynb)
+- [Midterm2Review](https://colab.research.google.com/github/wfreinhart/matse219/blob/main/notebooks/Midterm2Review.ipynb)
 
 ## Homework
 

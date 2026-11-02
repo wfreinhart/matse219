@@ -50,3 +50,4 @@ Auto-generated from the private authoring repo (matse219-instructor). Do not edi
 - [Homework09](https://colab.research.google.com/github/wfreinhart/matse219/blob/staging/notebooks/Homework09.ipynb)
 - [Homework10](https://colab.research.google.com/github/wfreinhart/matse219/blob/staging/notebooks/Homework10.ipynb)
 - [Homework10Hints](https://colab.research.google.com/github/wfreinhart/matse219/blob/staging/notebooks/Homework10Hints.ipynb)
+- [Homework11](https://colab.research.google.com/github/wfreinhart/matse219/blob/staging/notebooks/Homework11.ipynb)
